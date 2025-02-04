@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Mora Campos</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h1 align="center">📫 Reach me at **dmc.es24@gmail.com**</h1>
+<h3 align="center">📫 Reach me at **dmc.es24@gmail.com**</h3>
 
-<h1 align="center">📄 Know about my experiences [https://www.linkedin.com/in/danielmoracampos/?locale=en_US](https://www.linkedin.com/in/danielmoracampos/?locale=en_US)</h1>
+<h3 align="center">📄 Know about my experiences (https://www.linkedin.com/in/danielmoracampos/?locale=en_US)</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
